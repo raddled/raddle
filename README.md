@@ -1,2 +1,2 @@
 # raddle
-Extensible Query Language for the Web
+Extensible Document Manipulation Language for the Web
