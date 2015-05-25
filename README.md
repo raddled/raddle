@@ -1,6 +1,6 @@
 ## What is Raddle?
 
-Raddle is a rad new language for manipulating structured documents on the web. It is [fully-featured](#fully-featured), [functional](#functional), [point-less](#point-less), [URL-encodable](#URL-encodable), [type-safe](#type-safe) and completely [free](#free) (as in speech).
+Raddle is a rad new language for manipulating structured documents on the web. It is [fully-featured](#fully-featured), [functional](#functional), [point-less](#point-less), [URL-encodable](#url-encodable), [type-safe](#type-safe) and completely [free](#free) (as in speech).
 
 ### Fully-featured
 
