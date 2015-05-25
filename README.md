@@ -27,14 +27,15 @@ With Raddle's type declarations, types are kept in check.
 Raddle is licensed under the AFL or BSD license.
 
 
-## Raddle's Genesis
+## Genesis
 
 Raddle was inspired by RQL. RQL is a great tool for querying JSON, but with Raddle you can extend that greatness! It is capable of handling more types than arrays of objects, and you can add new functionality, either inline or from external modules.
 
 Furthermore, Raddle encourages implementation in other languages, as its core definitions are clear and concise from the start.
 
-## Raddle's TODO
+## TODO
 
-* Implement Raddle's core functions in Javascript, XQuery, Java, PHP, Scala, Ruby, Perl, Python, C++, et cetera!
+* Implement Raddle's parser and transpiler in Javascript, XQuery, Java, PHP, Scala, Ruby, Perl, Python, C++, et cetera.
+* Implement Raddle's core functions in Javascript, XQuery, Java, PHP, Scala, Ruby, Perl, Python, C++, et cetera.
 * Make Raddle compatible with Dojo's [dstore](https://github.com/sitepen/dstore).
 * Use Raddle to manipulate the browser's DOM.
